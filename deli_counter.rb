@@ -13,6 +13,8 @@ def line(katz_deli)
   end 
 end
 
+
+
 def take_a_number(katz_deli, new_person)
   katz_deli << new_person
   puts "Welcome, #{new_person}. You are number #{katz_deli.length} in line."
