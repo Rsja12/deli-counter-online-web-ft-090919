@@ -15,4 +15,5 @@ end
 
 def take_a_number(katz_deli, new_person)
   katz_deli << new_person
+  puts "Welcome, "
 end 
